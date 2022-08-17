@@ -1,7 +1,3 @@
-## Wayward Projects Raised by Wolves
-
-a miscellany
-
 ### Projects
 
 - [Network visualization of deaths in _Game of Thrones_](https://egraham12.github.io/ASOIAF-Deaths/)
